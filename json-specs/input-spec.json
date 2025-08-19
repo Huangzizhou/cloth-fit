@@ -26,7 +26,8 @@
             "twist_penalty_weight",
             "curvature_penalty_weight",
             "similarity_penalty_weight",
-            "curve_size_weight"
+            "curve_size_weight",
+            "curve_center_target_automatic_bone_generation"
         ],
         "doc": "Root of the configuration file."
     },
